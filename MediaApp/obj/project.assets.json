@@ -529,23 +529,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dev\\.nuget\\packages\\": {},
+    "C:\\Users\\ROG\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WinUI\\MediaApp\\MediaApp\\MediaApp.csproj",
+      "projectUniqueName": "N:\\Projects\\mediaapp\\MediaApp\\MediaApp.csproj",
       "projectName": "MediaApp",
-      "projectPath": "C:\\WinUI\\MediaApp\\MediaApp\\MediaApp.csproj",
-      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\WinUI\\MediaApp\\MediaApp\\obj\\",
+      "projectPath": "N:\\Projects\\mediaapp\\MediaApp\\MediaApp.csproj",
+      "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
+      "outputPath": "N:\\Projects\\mediaapp\\MediaApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -554,11 +554,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0-windows10.0.19041": {
-          "targetAlias": "net5.0-windows10.0.19041.0",
+          "targetAlias": "net5.0-windows10.0.19041",
           "projectReferences": {}
         }
       },
@@ -570,7 +571,7 @@
     },
     "frameworks": {
       "net5.0-windows10.0.19041": {
-        "targetAlias": "net5.0-windows10.0.19041.0",
+        "targetAlias": "net5.0-windows10.0.19041",
         "dependencies": {
           "Microsoft.ProjectReunion": {
             "target": "Package",

@@ -22,11 +22,7 @@ namespace MediaApp
             PopulateData();
         }
 
-        private void myButton_Click(object sender, RoutedEventArgs e)
-        {
-            myButton.Content = "Clicked";
-            
-        }
+       
 
         public void PopulateData()
         {
